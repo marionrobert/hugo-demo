@@ -1,5 +1,5 @@
 ---
-title: "First"
+title: "This is the first post on Hugo"
 date: 2023-09-18T21:23:23+02:00
 draft: false
 cover:
